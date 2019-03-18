@@ -17,6 +17,6 @@ python assembler.py [-options] file_name
 ### How to compile Macro
 
 ```bash
-pyhton Macro.py file_name
+python Macro.py file_name
 ```
 
